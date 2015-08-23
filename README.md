@@ -10,11 +10,11 @@ The purpose of this project is to demonstrate ability to collect, work with, and
 # About this repository
 
 This repository contains  
-1. A R script: _r_analysis.R_  
-2. Working set  
-3. A code book  
+1. A R script that performs the cleaning: *_r_analysis.R_*  
+2. A code book that describes variables used,  
+3. A text file which contains the final dataset: *_tidy_data.txt_*  
 
-# About the working dataset
+# About the working data
 
 ### Where the data was obtained
 
