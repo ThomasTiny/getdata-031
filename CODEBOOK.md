@@ -24,8 +24,8 @@ This codebook describes the variables in _r_analysis.R_ script.
 
 `x_data_subset`: Subset of `x_data`, extract columns relevant to mean an standard deviation of measurement.
 
-`combined_data`: Merge data of 'x_data_subset', 'y_data', 'subject_data'.
+`combined_data`: Merge data of `x_data_subset`, `y_data`, `subject_data`.
 
-`melt_data`: Melt (using Reshape2) of combined_data, for further processing.
+`melt_data`: Melt (Reshape2::melt) of combined_data, for further processing.
 
-'tidy_data': Independent tidy data set with the average of each variable for each activity and each subject.
+`tidy_data`: Independent tidy data set with the average of each variable for each activity and each subject.
